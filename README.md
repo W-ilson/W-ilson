@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @W-ilson
+- 🌱 I’m currently learning python, 3d modelling in blender and unity
+- 💞️ I’m looking to collaborate i would like to work in 3d, or in video game creation
+- 📫 How to reach me -> wilsonjhn01@gmail.com
